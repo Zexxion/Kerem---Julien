@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\donsc\desktop\bureau\projets c++\sfml\sfml intro\sfml intro\main.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Intro.vcxproj -> C:\Users\donsc\Desktop\Bureau\PROJETS C++\SFML\SFML Intro\x64\Debug\SFML Intro.exe
+  SFML Intro.vcxproj -> C:\Users\donsc\Desktop\Bureau\PROJETS C++\SFML\SFML Intro\x64\Debug\SFML Intro.pdb (Full PDB)

@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\donsc\desktop\bureau\projets c++\sfml\sfml intro\sfml intro\Player.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  9 of 470 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML Intro.vcxproj -> C:\Users\donsc\Desktop\Bureau\PROJETS C++\SFML\SFML Intro\x64\Release\SFML Intro.exe
+  SFML Intro.vcxproj -> C:\Users\donsc\Desktop\Bureau\PROJETS C++\SFML\SFML Intro\x64\Release\SFML Intro.pdb (Full PDB)
